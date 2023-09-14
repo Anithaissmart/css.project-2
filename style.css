@@ -1,0 +1,31 @@
+h1
+{
+    color: rosybrown;
+    background:greenyellow; 
+
+}
+h1,h2
+{
+    color: rosybrown;
+    background:greenyellow; 
+
+}
+.anitha
+{
+    color: yellowgreen;
+    background: red;
+}
+#laxman
+{
+    color:yellowgreen ;
+    background:red ;
+    font-size: 20px;
+}
+
+
+.pseudo p
+{
+    color: yellowgreen;
+    background:red ;
+    font-size: 200px;
+}
